@@ -5,3 +5,5 @@ Admires the people's work of [Petoi Nybble](https://www.hackster.io/RzLi/petoi-n
 
 * https://github.com/SloCompTech/QList.git
 * https://github.com/McNeight/MemoryFree.git
+* https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/I2Cdev
+* https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
