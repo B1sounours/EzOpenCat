@@ -482,8 +482,8 @@ void loop() {
       //PTL(newCmd);
       //PTL(timeouts[c]);
       //strcpy(newCmd, "balance");
-      if (c == sizeof(movements) / 2)
-          auto_mode = false;
+      //if (c == sizeof(movements) / 2)
+          //auto_mode = false;
       //PTL(c);
     }
   }
