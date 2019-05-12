@@ -200,7 +200,7 @@ void setup() {
   Fastwire::setup(400, true);
 #endif
 
-  Serial.begin(115200);
+  Serial.begin(38400);
   Serial.setTimeout(5);
   delay(1);
   while (!Serial);//check here
