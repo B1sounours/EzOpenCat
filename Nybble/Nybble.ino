@@ -254,7 +254,7 @@ void setup() {
 #endif
 #endif
 
-  Serial.begin(115200);
+  Serial.begin(38400);
   Serial.setTimeout(10);
   while (!Serial);
   // wait for ready
